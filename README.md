@@ -4,15 +4,15 @@
 `Z80 learning bits` is an online repository for my personal notes and snippets on my study of [Z80](https://en.wikipedia.org/wiki/Zilog_Z80) [Assembly](https://en.wikipedia.org/wiki/Assembly_language) on the macOS platform.
 
 ## Table of Contents
-* [Motivation](#Motivation)
-* [Overview](#Overview)
-* [Assumptions](#Assumptions)
-* [Tooling](#Tooling)
-* [Roadmap](#Roadmap)
-* [Resources](#Resources)
-* [Disclaimer](#Disclaimer)
-* [Support](#Support)
-* [License](#License)
+* 💭 [Motivation](#Motivation)
+* 🔎 [Overview](#Overview)
+* 📋 [Assumptions](#Assumptions)
+* 🛠️ [Tooling](#Tooling)
+* 🛣️ [Roadmap](#Roadmap)
+* 🧰 [Resources](#Resources)
+* ⚠️ [Disclaimer](#Disclaimer)
+* 🛟 [Support](#Support)
+* 🪪 [License](#License)
 
 <a name="Motivation"></a>
 ## 💭 Motivation 
