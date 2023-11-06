@@ -63,7 +63,7 @@ $ echo $((16#FF))
 ```
 
 <a name="ROMRoutines"></a>
-###🚏 Useful ROM routines
+### 🚏 Useful ROM routines
 
 A selected list of useful ROM routines. 
 
@@ -88,7 +88,7 @@ In the most appropriate order for me to consult.
 *(Credit: [L Break Into Program, 0:1](http://www.breakintoprogram.co.uk/hardware/computers/zx-spectrum/memory-map))*
 
 <a name="Registers"></a>
-###📝 Registers
+### 📝 Registers
 
 ![Z80 Registers](diagrams/img/z80_registers.png)
 
