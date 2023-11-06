@@ -3,15 +3,16 @@
 
 In this section I will keep a record of what I am doing at the moment and what I work to work on next.
 
-## In Progress
+<a name="InProgress"></a>
+## 🏃 In Progress
 
 * Creation of the git repo content 
  * **Snippets**: review, test and document (README.md) the various snippets I already have; all the Makefiles need to change to the version in tools/make which was updated on 6/Nov
  
 * Finish [this] (https://www.youtube.com/watch?v=O2gw36OyX3g) and fix the bugs. Publish it to `snippets`
  
-
-## Future scope
+<a name="FutureScope"></a>
+## 🔮 Future scope
 
 * Finish all Darryl Sloan tutorials (3 & 4)
 
