@@ -1,7 +1,3 @@
-# Makefile template for single-file Z80 Assembly projects on macOS 
-# 
-# Replace <file-name> with the name of the input file (the Assembly code file) 
-
 # Variables
 
 FILENAME = hello
