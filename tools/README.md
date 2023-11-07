@@ -87,6 +87,13 @@ In the most appropriate order for me to consult.
 
 *(Credit: [L Break Into Program, 0:1](http://www.breakintoprogram.co.uk/hardware/computers/zx-spectrum/memory-map))*
 
+<a name="ZXSpectrumKeyboardLayout"></a>
+### ⌨️ ZX Spectrum Keyboard Layout
+
+![ZX Spectrum keyboard layout](diagrams/img/zx_spectrum_keyboard_layout.png)
+
+*(Credit: [slady](http://slady.net/Sinclair-ZX-Spectrum-keyboard/layout/))*
+
 <a name="Registers"></a>
 ### 📝 Registers
 
