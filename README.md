@@ -97,6 +97,7 @@ See what else I want to do next [here](ROADMAP.md).
 
 ### ⚙️ Z80 
 
+* 🕸️[Z80 CPU User Manual by Zilog](https://www.zilog.com/docs/z80/um0080.pdf) - _le_ Z80 manual!
 * 🕸️[Z80 page on Wikipedia](https://en.wikipedia.org/wiki/Zilog_Z80) - history and design information with very nice visual reference for the [registers](https://en.wikipedia.org/wiki/Zilog_Z80#Registers) 
 * 🕸️[Z80-info](http://www.z80.info) - a very thorough page with all sorts of documentation about the Z80 ecosystem. Includes all from the instruction set to hardware diagrams
 * 📖[Programming the Z80](https://spectrumcomputing.co.uk/entry/2000292/Book/Programming_the_Z80) - a comprehensive resource on the Z80, starting from the basics of programming and information representation
