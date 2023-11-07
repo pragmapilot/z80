@@ -104,14 +104,14 @@ See what else I want to do next [here](ROADMAP.md).
 * 📖[Programming the Z80](https://spectrumcomputing.co.uk/entry/2000292/Book/Programming_the_Z80) - a comprehensive resource on the Z80, starting from the basics of programming and information representation
 * 🕸️[z80 game development](http://jgmalcolm.com/z80/) - a very cool page dedicated to Z80 game programming for the TI-86 calculator but with many nice and interesting resources on general programming as well and on Z80. Features topics from beginner to advanced level 
 
-### 🧱Assembly
+### 🧱Assembler
 
 * [Darryl Sloan](https://www.youtube.com/@darrylsloan) has many interesting Assembly videos on his channel:
- * 🎥[Intro, basics and some elementary graphics ](https://www.youtube.com/watch?v=1gHlMpO8gqw)
- * 🎥[Text and graphics](https://www.youtube.com/watch?v=O2gw36OyX3g)
- * 🎥[User input](https://www.youtube.com/watch?v=PEQuCtGUe-c)
- * 🎥[Movement & collisions](https://www.youtube.com/watch?v=uWqdk-1_NIg)
-
+  * 🎥[Intro, basics and some elementary graphics ](https://www.youtube.com/watch?v=1gHlMpO8gqw)
+  * 🎥[Text and graphics](https://www.youtube.com/watch?v=O2gw36OyX3g)
+  * 🎥[User input](https://www.youtube.com/watch?v=PEQuCtGUe-c)
+  * 🎥[Movement & collisions](https://www.youtube.com/watch?v=uWqdk-1_NIg)
+* 🕸️[Z80 Assembler for Dummies](https://www.msx.org/wiki/Z80_Assembler_for_Dummies) - a concise introduction to Z80 Assembler: basics, registers, flags, commands, data, program format...a great TL;DR and a quick reference
 *  📖[Mastering Machine Code on Your ZX Spectrum](https://www.spectrumcomputing.co.uk/index.php?cat=96&id=2000237) - a good book on Assembly covering all the basics up to the useful stuff like debugging, graphics and ROM disassembly. Translated to 🇵🇹
 
 ### 📝 Vim
@@ -129,6 +129,7 @@ See what else I want to do next [here](ROADMAP.md).
 * 📖[The Complete Spectrum ROM Disassembly](https://spectrumcomputing.co.uk/entry/2000076/Book/The_Complete_Spectrum_ROM_Disassembly) - as the title says, all the ZX Spectrum ROM routines disassembled and explained 
 * 🕸️[ZX Basic Manual](https://worldofspectrum.org/ZXBasicManual/) - a useful resource for BASIC programming
 * 🕸️[Sinclair BASIC ](https://worldofspectrum.net/legacy-info/sinclair-basic/) - extensive tool (interpreters, compilers) and documentation (manuals, history, books) information on BASIC
+* 🕸️[Sinclair ZX Spectrum keyboard layout](http://slady.net/Sinclair-ZX-Spectrum-keyboard/layout/) - useful if you need to write some BASIC and you lost your dead-tree copy of the ZX Spectrum manual
 
 ### 🌐 General
 
