@@ -12,23 +12,15 @@ Every program lives in it's own folder and has the following files:
 * **Source file** - the `.asm` file that contains the Assembly program
 * **Makefile** - to easily build and run the code. See [Makefile](../tools/make/README.md) for more details
 
-<a name="DontForget"></a>
-## ⚠️ Don't Forget...
+<a name="Template"></a>
+## 🧬 Template
 
-... to do the following when creating a new project:
+[Here's](./_TEMPLATE) a project template to be used on every project.
 
-* include a `README.md` (see [below](#READMETemplate))
-* create a `.gitignore` with the following content:
+To bootstrap a new project simply do:
 
 ```
-out/ 
+$ mkdir <new-folder>
+$ cd _TEMPLATE
+$ cp -a * .* ../<new-folder>
 ```
-
-* test the links (internal and external)
-
-<a name="READMETemplate"></a>
-## 🧬 README.md Template
-
-[Here's](./README_Template.md) the `README.md` template to be used on every project.
-
-
