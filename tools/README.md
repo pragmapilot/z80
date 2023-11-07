@@ -6,12 +6,13 @@ Useful templates, tools and diagrams to assist in the study of Z80 Assembly.
 ## 🗂️ Table of Contents
 * 🧬 [Templates](#Templates)
 * ⚒️ [Tools](#Tools)
- * 🐚 [Shell 1-liners](#ShellOneLiners)
- * 🚏 [Useful ROM Routines](#ROMRoutines)
+	* 🐚 [Shell 1-liners](#ShellOneLiners)
+	* 🚏 [Useful ROM Routines](#ROMRoutines)
 * 📈 [Diagrams](#Diagrams)
- * 🧠 [Memory Map](#MemoryMap)
- * 📝 [Registers](#Registers)
- * 🏛️ [Basic Architecture](#BasicArchitecture)
+	* 🧠 [Memory Map](#MemoryMap)
+	* ⌨️ [ZX Spectrum Keyboard Layout](#ZXSpectrumKeyboardLayout)
+	* 📝 [Registers](#Registers)
+	* 🏛️ [Basic Architecture](#BasicArchitecture)
 
 <a name="Templates"></a>
 ##🧬 Templates
