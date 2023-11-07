@@ -16,6 +16,8 @@ In this section I will keep a record of what I am doing at the moment and what I
 
 * Write a snippet with code exercising all the Z80 addressing modes
 
+* Write a snippet that fetches 2 ints from keyboard, adds them and prints the result back to the screen
+
 * Finish all Darryl Sloan tutorials (3 & 4)
 
 * Create a project that does not use `bin2tap` `-b` option (add the loader) and understand how the code can be manually copied to the memory and executed
