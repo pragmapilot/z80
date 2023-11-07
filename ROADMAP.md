@@ -6,6 +6,8 @@ In this section I will keep a record of what I am doing at the moment and what I
 <a name="InProgress"></a>
 ## 🏃 In Progress
 
+* Write a snippet with code exercising all the Z80 addressing modes
+
 * Creation of the git repo content 
 	* **Snippets**: review, test and document (README.md) the various snippets I already have; all the Makefiles need to change to the version in tools/make which was updated on 6/Nov
  
@@ -13,8 +15,6 @@ In this section I will keep a record of what I am doing at the moment and what I
  
 <a name="FutureScope"></a>
 ## 🔮 Future scope
-
-* Write a snippet with code exercising all the Z80 addressing modes
 
 * Write a snippet that fetches 2 ints from keyboard, adds them and prints the result back to the screen
 	* ints should be byte-long max only (to avoid dealing with word registers (BC, DE, HL...)
