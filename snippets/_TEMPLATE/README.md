@@ -26,4 +26,4 @@ You can use `Ctrl+C` to stop the emulator when running from the command line.
 *Cool/surprising/new things I learned from it*
 
 * This is an item with some `code string`
- * This is a sub-item
+  * This is a sub-item

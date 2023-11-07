@@ -6,10 +6,10 @@ The [Makefile](https://www.gnu.org/software/make/manual/make.html#Introduction) 
 The script can be easily modified to adapt for projects particular specifications or needs. To alter it consult the [Script](#Script) section.
 
 ## Table of Contents
-* [Targets](#Targets)
-* [Assumptions](#Assumptions)
-* [Usage](#Usage)
-* [Script](#Script)
+* 🎯 [Targets](#Targets)
+* 📋 [Assumptions](#Assumptions)
+* ▶️ [Usage](#Usage)
+* 📜 [Script](#Script)
 
 <a name="Targets"></a>
 ## 🎯 Targets
