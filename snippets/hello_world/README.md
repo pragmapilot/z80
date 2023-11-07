@@ -32,11 +32,11 @@ Prints a string of text, "Hello, world!", on the second line of the screen using
 ## 💡 TIL
 
 * You can set the position where text will be printed calling a ROM routine at `0x1601`.
-        * This routine assumes register `A` contains the number of the line to start the printing
+  * This routine assumes register `A` contains the number of the line to start the printing
 * You can print a character stored in register `A` using `RST 16`
-        * 	If you're printing a string, don't forget to increment the address for the next character (typically stored in `HL`)
+  * If you're printing a string, don't forget to increment the address for the next character (typically stored in `HL`)
 * `defb`... 
-        * can take a list of strings
-        * uses `'` to delimit the string
-        * needs a terminator character (`$` is used routinely)
+  * can take a list of strings
+  * uses `'` to delimit the string
+  * needs a terminator character (`$` is used routinely)
   
