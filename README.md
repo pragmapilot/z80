@@ -120,7 +120,7 @@ See what else I want to do next [here](ROADMAP.md).
 
 ### ⌨️ ZX Spectrum
 
-* 📖[ZX Spectrum Users Handbook](https://www.amazon.co.uk/Spectrum-Users-Handbook-Robert-Simpson/dp/0408013230) - this has been my main (physical) book on the ZX Spectrum. An excellent introduction to the ZX Spectrum microcomputer, BASIC and a nice section on Assembly. I am using the Portuguese version, which is a remarkably good translation (ISBN: 972-23-1254-5)
+* 📖[ZX Spectrum Users Handbook](https://spectrumcomputing.co.uk/entry/2000443/Book/ZX_Spectrum_Users_Handbook) - this has been my main (physical) book on the ZX Spectrum. An excellent introduction to the ZX Spectrum microcomputer, BASIC and a nice section on Assembly. I am using the Portuguese version, which is a remarkably good translation (ISBN: 972-23-1254-5)
 * 🕸️[Developing for Sinclair Computers](https://symbolicdebugger.com/retro-programming/developing-for-sinclair-computers/) - a very nice resource on how to develop for ZX Spectrum. Valuable information on tooling and installation of the tool chain
 * 🕸️[ASSEMBLY ON THE ZX SPECTRUM - PART 1](https://benjamin.computer/posts/2022-04-22-ZX-coding.html) - another cool resource with information on tools, memory mapping, running Assembly code from BASIC and a simple "Hello World" in Z80 Assembly
 * 🕸️[Memory Map](http://www.breakintoprogram.co.uk/hardware/computers/zx-spectrum/memory-map) - detailed explanations and diagrams for the 48K and 128K ZX Spectrum
