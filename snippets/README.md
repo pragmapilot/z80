@@ -1,14 +1,14 @@
 # Snippets
 
-A collection of simple programs that I used to learn more about Z80 Assembly and microcomputers.
+A collection of simple programs that I use to learn more about Z80 Assembly and microcomputers.
 
 Every program lives in it's own folder and has the following files:
 
 * **Readme** - information about the code:
- * What it is and what was my goal
- * How to run it
- * High-level explanation of what it does
- * What outstanding things I learned from it
+  * What it is and what was my goal
+  * How to run it
+  * High-level explanation of what it does
+  * What outstanding things I learned from it
 * **Source file** - the `.asm` file that contains the Assembly program
 * **Makefile** - to easily build and run the code. See [Makefile](../tools/make/README.md) for more details
 
