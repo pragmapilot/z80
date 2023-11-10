@@ -10,7 +10,7 @@ Every program lives in it's own folder and has the following files:
   * High-level explanation of what it does
   * What outstanding things I learned from it
 * **Source file** - the `.asm` file that contains the Assembly program
-* **Makefile** - to easily build and run the code. See [Makefile](../tools/make/README.md) for more details
+* **Makefile** - to easily build and run the code. See [Makefile](../../tools/make-bas/README.md) for more details
 
 <a name="Template"></a>
 ## 🧬 Template
