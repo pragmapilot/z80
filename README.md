@@ -3,6 +3,8 @@
 
 `Z80 learning bits` is an online repository for my personal notes and snippets on my study of [Z80](https://en.wikipedia.org/wiki/Zilog_Z80) [Assembly](https://en.wikipedia.org/wiki/Assembly_language) on the macOS platform.
 
+Most of the code here will Z80 Assembly but there's the occasional BASIC stuff as well.
+
 ## Table of Contents
 * 💭 [Motivation](#Motivation)
 * 🔎 [Overview](#Overview)
@@ -31,10 +33,12 @@ I selected the Z80 because it powers the ZX Spectrum, a microcomputer that holds
 <a name="Overview"></a>
 ## 🔎 Overview
 
+The learning bits 
+
 This content is organized in three basic sections: 
 
 * **Main** - these notes plus the [Roadmap](ROADMAP.md) (where I take notes to myself about what I want to do or study next) and the [License](LICENSE)
-* **Snippets** - several Z80 Assembly snippets (usually adapted from somehwere else) with my own personal annotations and comments on the code
+* **Snippets** - several Z80 and BASIC Assembly snippets (usually adapted from somehwere else) with my own personal annotations and comments on the code
 * **Tools** - useful templates, tools and diagrams to assist in the study of Z80 Assembly
 
 
