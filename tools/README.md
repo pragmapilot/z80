@@ -17,7 +17,7 @@ Useful templates, tools and diagrams to assist in the study of Z80 Assembly.
 <a name="Templates"></a>
 ##🧬 Templates
 
-* [make](./make/README.md) - the [Makefile](https://www.gnu.org/software/make/manual/make.html#Introduction) template I'm using to build, convert and run the `asm` code
+* [make-asm](./make-asm/README.md) - the [Makefile](https://www.gnu.org/software/make/manual/make.html#Introduction) template I'm using to build, convert and run the `asm` code
 
 <a name="Tools"></a>
 ## ⚒️ Tools
