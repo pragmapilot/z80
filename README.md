@@ -46,7 +46,9 @@ To run these snippets it's assumed that you are running on a Mac computer with a
 <a name="Tooling"></a>
 ## 🛠️ Tooling
 
-The tool chain I am using is comprised of the following elements:
+### Assembly ###
+
+The tool chain I use is comprised of the following elements:
 
 * [vim](https://www.vim.org) - editor to write the `.asm` code
 * [z80asm](https://www.nongnu.org/z80asm/) - to convert the `.asm` into machine code 
@@ -54,7 +56,17 @@ The tool chain I am using is comprised of the following elements:
 * [Fuse for macOS](https://fuse-for-macosx.sourceforge.io) - as the ZX Spectrum Emulator to run and test the Assembly code
 * [GNU Make](https://www.gnu.org/software/make/) - to orchestrate the build and execution pipeline 
 
+### BASIC ###
+
+Sometimes is useful to do a little BASIC. For that the tooling I use is:
+
+* [vim](https://www.vim.org) - editor to write the `.bas` code
+* [bas2tap](https://github.com/andybalaam/bas2tap) - to directly convert the BASIC code to the [TAP](https://sinclair.wiki.zxnet.co.uk/wiki/TAP_format) format used by most emulators
+
+
 ### Tool installation
+
+#### Assembly ####
 
 `vi` and `make` should be installed by default on your macOS. If they're not check [here](https://www.vim.org/download.php) and [here](https://www.gnu.org/software/make/#download).
 
@@ -86,6 +98,21 @@ To install `Fuse for macOS` use `brew` once again ([formula](https://formulae.br
 ```
 brew install --cask fredm-fuse
 ```
+
+#### BASIC ####
+
+As of Nov 2023 there's no Homebrew formula for `bas2tap` so you need to download the source from [bas2tap github repo]() and manually compile it. You can follow the instructions on the repo. 
+
+I've providede the full installation commands below. 
+
+```
+$ git clone https://github.com/andybalaam/bas2tap.git
+$ cd bas2tap 
+$ make
+$ sudo mv bas2tap /usr/local/bin
+```
+
+This will clone the repo into a folder named `bas2tap`, build the executable and then move the command to `/usr/local/bin` as it is used to store local executables.
 
 <a name="Roadmap"></a>
 ## 🛣️ Roadmap
