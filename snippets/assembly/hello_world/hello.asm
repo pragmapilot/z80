@@ -1,4 +1,4 @@
-; A simple "Hello, World!"
+; A simple "Hello, World!" in Assembly
 ;
 ; Source: https://symbolicdebugger.com/retro-programming/developing-for-sinclair-computers/
 ; 
@@ -24,4 +24,4 @@ printline:              ; Routine to print out a line
 printend:
         ret
 
-line:   defb 'Hello, world!',13,'$'
+line:   defb 'Hello, Assembly!',13,'$'
