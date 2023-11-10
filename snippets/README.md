@@ -5,4 +5,4 @@ A collection of simple programs in Assembly and BASIC that I use to learn more a
 Jump directly to...
 
 * [Assembly](./assembly/README.md) 
-* [BASIC](./basic/README.md) 
+* [BASIC](./BASIC/README.md) 
